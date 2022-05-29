@@ -1,5 +1,6 @@
 # Jim Leonardo
-I am a hands-on software development leader with 20+ years of experience. Cloud, Agile and DevOps transformations are my bread and butter, helping businesses succeed at their strategic goals is my passion. Since 2012, I have been focused on leading the development of public facing, cloud based applications using Microsoft Azure technologies.
+I am a hands-on software development leader with 20+ years of experience. I am a software development leader with over 20 years of experience helping teams succeed. Leading transformative Software Development is my bread and butter; my passion is helping businesses succeed at their strategic goals while creating an inclusive environment where people can do their best work, feel fulfilled, and meet both their personal and professional goals.
+ 
 
 My current side project efforts are focused on the Blazor Framework. You can find some projects at <https://github.com/SpiralAngle>
 

@@ -1,5 +1,5 @@
 # Jim Leonardo
-I am a hands-on software development leader with 20+ years of experience. I am a software development leader with over 20 years of experience helping teams succeed. Leading transformative Software Development is my bread and butter; my passion is helping businesses succeed at their strategic goals while creating an inclusive environment where people can do their best work, feel fulfilled, and meet both their personal and professional goals.
+I am a software development leader with over 20 years of experience helping teams and organizations succeed. Leading transformative Software Development is my bread and butter; my passion is helping businesses succeed at their strategic goals while creating an inclusive environment where people can do their best work, feel fulfilled, and meet both their personal and professional goals.
  
 
 My current side projects:

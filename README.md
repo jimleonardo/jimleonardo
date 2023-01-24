@@ -1,5 +1,7 @@
 # Jim Leonardo
 I am a software development leader with over 20 years of experience helping teams and organizations succeed. Leading transformative Software Development is my bread and butter; my passion is helping businesses succeed at their strategic goals while creating an inclusive environment where people can do their best work, feel fulfilled, and meet both their personal and professional goals.
+
+If you need mentoring, help with your software strategy, or just getting work done, I offer my services as a freelance software advisor, leader, architect, and developer through [Jim Leonardo Development Services](https://www.jimleodev.com).
  
 
 My current side projects:
